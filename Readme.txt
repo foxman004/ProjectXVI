@@ -1,1 +1,2 @@
 - This is new project - line 1
+- This is second line.
